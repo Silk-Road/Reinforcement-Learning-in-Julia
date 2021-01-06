@@ -1,1 +1,1 @@
-Implement the [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) in Julia. 
+Implement the [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) in Julia, based on Python scripts of Martha White and Adam White who are assistant professors of University of Alberta，and this specialization is also provided by University of Alberta and Alberta Machine Intelligence Institute.
